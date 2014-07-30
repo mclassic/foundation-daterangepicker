@@ -1,0 +1,26 @@
+{
+    "authors": [
+        {
+            "name": "Michael Classic",
+            "email": "dvious.one@gmail.com",
+            "homepage": "http://www.classichalton.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Talha Asad",
+            "homepage": "http://www.mindblaze.net",
+            "role": "Developer"
+        }
+    ],
+    "license": "Apache-2.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mclassic/foundation-daterangepicker"
+        }
+    ],
+    "require": {
+        "mclassic/foundation-daterangepicker": "dev-composerfy",
+        "moment/moment": "2.7.x"
+    }
+}
