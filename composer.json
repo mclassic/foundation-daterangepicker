@@ -24,7 +24,6 @@
         }
     ],
     "require": {
-        "mindblaze/foundation-daterangepicker": "dev-composerfy",
         "robloach/component-installer": "*",
         "component/jquery": ">=1.10"
     },
