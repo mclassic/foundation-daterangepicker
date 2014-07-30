@@ -1,4 +1,7 @@
 {
+    "name": "mclassic/foundation-daterangepicker",
+    "description": "DateTime range picker for Foundation 4/5",
+    "keywords": ["foundation", "datepicker", "datetime"],
     "authors": [
         {
             "name": "Michael Classic",
