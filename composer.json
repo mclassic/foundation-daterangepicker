@@ -1,5 +1,6 @@
 {
     "name": "mclassic/foundation-daterangepicker",
+    "type": "component",
     "description": "DateTime range picker for Foundation 4/5",
     "keywords": ["foundation", "datepicker", "datetime"],
     "authors": [
@@ -24,6 +25,20 @@
     ],
     "require": {
         "mclassic/foundation-daterangepicker": "dev-composerfy",
-        "moment/moment": "2.7.x"
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "name": "datepicker",
+            "scripts": [
+                "js/datepicker.js"
+            ],
+            "styles": [
+                "css/daterangepicker-f5.css"
+            ],
+            "files": [
+                "js/moment.min.js"
+            ]
+        }
     }
 }
