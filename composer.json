@@ -31,7 +31,7 @@
         "component": {
             "name": "datepicker",
             "scripts": [
-                "js/datepicker.js"
+                "js/daterangepicker.js"
             ],
             "styles": [
                 "css/daterangepicker-f5.css"
