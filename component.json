@@ -1,0 +1,14 @@
+{
+  "name": "daterangepicker",
+  "repo": "mclassic/foundation-daterangepicker",
+  "version": "1.0.1",
+  "description": "Date Range Picker for Foundation 5",
+  "keywords": [
+    "daterangepicker",
+    "foundation"
+  ],
+  "scripts": [
+    "js/daterangepicker.js"
+  ],
+  "license": "MIT"
+}
