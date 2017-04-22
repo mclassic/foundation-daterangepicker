@@ -731,6 +731,7 @@
             }
 
             this.updateCalendars();
+            this.updateInputText();
 
         },
 
